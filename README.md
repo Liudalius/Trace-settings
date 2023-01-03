@@ -1,0 +1,2 @@
+# Trace-settings
+Cookies cleaner
