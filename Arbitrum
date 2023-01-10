@@ -1,0 +1,7 @@
+
+    function Donate() public payable {
+        payments[msg.sender] = msg.value;
+    }
+
+    function MoneyBack() public {
+        address payable 
